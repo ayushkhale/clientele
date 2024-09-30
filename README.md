@@ -1,6 +1,3 @@
-Here's a concise and engaging GitHub repository description for your "Clientele" project:
-
----
 
 # Clientele
 
