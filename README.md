@@ -18,5 +18,3 @@
 - Swiper.js for carousels
 
 ---
-
-Feel free to modify any part of it to better suit your project!
